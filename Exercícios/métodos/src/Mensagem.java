@@ -1,4 +1,4 @@
-package métodos;
+package métodos.src;
 
 public class Mensagem {
     public static void obterMensagem(int hora) {

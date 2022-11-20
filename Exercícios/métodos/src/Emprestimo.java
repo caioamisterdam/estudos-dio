@@ -1,4 +1,4 @@
-package métodos;
+package métodos.src;
 
 public class Emprestimo {
     public static int getDuasParcelas() {
