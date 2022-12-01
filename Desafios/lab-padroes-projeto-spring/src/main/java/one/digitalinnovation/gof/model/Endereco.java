@@ -1,4 +1,4 @@
-package one.digitalinnovation.labpadroesprojetospring.model;
+package one.digitalinnovation.gof.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

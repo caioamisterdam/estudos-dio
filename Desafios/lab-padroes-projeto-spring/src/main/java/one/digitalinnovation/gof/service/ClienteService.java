@@ -1,6 +1,6 @@
-package one.digitalinnovation.labpadroesprojetospring.service;
+package one.digitalinnovation.gof.service;
 
-import one.digitalinnovation.labpadroesprojetospring.model.Cliente;
+import one.digitalinnovation.gof.model.Cliente;
 
 public interface ClienteService {
 

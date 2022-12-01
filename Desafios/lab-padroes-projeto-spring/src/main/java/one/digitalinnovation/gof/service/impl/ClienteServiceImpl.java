@@ -1,16 +1,17 @@
-package one.digitalinnovation.labpadroesprojetospring.service.impl;
+package one.digitalinnovation.gof.service.impl;
 
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import one.digitalinnovation.labpadroesprojetospring.model.Cliente;
-import one.digitalinnovation.labpadroesprojetospring.model.ClienteRepository;
-import one.digitalinnovation.labpadroesprojetospring.model.Endereco;
-import one.digitalinnovation.labpadroesprojetospring.model.EnderecoRepository;
-import one.digitalinnovation.labpadroesprojetospring.service.ClienteService;
-import one.digitalinnovation.labpadroesprojetospring.service.ViaCepService;
+import one.digitalinnovation.gof.model.Cliente;
+import one.digitalinnovation.gof.model.ClienteRepository;
+import one.digitalinnovation.gof.model.Endereco;
+import one.digitalinnovation.gof.model.EnderecoRepository;
+import one.digitalinnovation.gof.service.ClienteService;
+import one.digitalinnovation.gof.service.ViaCepService;
+
 
 @Service
 public class ClienteServiceImpl implements ClienteService {
